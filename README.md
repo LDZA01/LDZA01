@@ -1,7 +1,7 @@
 Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?raw=true" width="60px"></h1>
 <h3 align="center">It 's Napat Chartwanchai.<br>
 (Poo-Kan)</h3>
-<p align="center">Nickname : Poo-Kan
+<p align="center">Nickname : Phaterr
 <br>Age : 19
 <br>Birthday : 11st August 2004
 <br>Nationality : Thai
