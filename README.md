@@ -1,6 +1,6 @@
 Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?raw=true" width="60px"></h1>
 <h3 align="center">It 's Phutatchai Limpanyakul.<br>
-(Poo-Kan)</h3>
+(sudlhorphu)</h3>
 <p align="center">Nickname : Phu
 <br>Age : 19
 <br>Birthday : 11st August 2004
