@@ -1,15 +1,12 @@
 Hello everyone <img src="https://github.com/Takedaxz/Takedaxz/blob/main/6mb.gif?raw=true" width="60px"></h1>
-<h3 align="center">It 's Phutatchai Limpanyakul.<br>
-(sudlhorphu)</h3>
-<p align="center">Nickname : Phu
+<h3 align="center">It 's Naphat Chartwanchai.<br>
+(Phat)</h3>
+<p align="center">Nickname : Phat
 <br>Age : 19
-<br>Birthday : 11st August 2004
+<br>Birthday : 23 August 2004
 <br>Nationality : Thai
 </p>
 <h3 align="center">Education</h3>
-<p align="center">Grade 1-6 Anuban Rayong School
-<br>Grade 7-9 Rayongwittayakom School
-<br>Grade 10-12 Triam Udom Suksa School 
 <br>Bachelor's Degree Chulalongkorn University </p>
 <h3 align="center">Currently learning</h3>
 <div align="center">
