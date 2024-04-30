@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 
 
-- :telescope: I’m Engineer Student from Chulalongkorn University.
+- :telescope: I’m Engineering Student from Chulalongkorn University.
 
 - :seedling: Exploring Technical Content Writing.
 
