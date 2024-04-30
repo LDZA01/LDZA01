@@ -36,3 +36,8 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naphat-chartwanchai-9b91a428b/)
 
+
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
+
