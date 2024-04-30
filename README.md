@@ -20,6 +20,10 @@
 <img src="https://komarev.com/ghpvc/?username=LDZA01&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
