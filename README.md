@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-  I am a Computer Engineer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chulalongkorn University.
+  I am a Computer Engineer Student from Chulalongkorn University.
 </div>
 
 ---
@@ -31,8 +31,6 @@
 - :telescope: I’m Engineering Student from Chulalongkorn University.
 
 - :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I play Football and read financial book.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naphat-chartwanchai-9b91a428b/)
 
