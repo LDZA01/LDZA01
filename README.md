@@ -23,10 +23,5 @@
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&amp;logo=rstudio" alt="RStudio">&nbsp;
-<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
-<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
-<img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign" alt="InDesign"></p>
 
 <hr>
