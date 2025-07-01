@@ -5,7 +5,7 @@
  &nbsp;I’m currently studying Computer Engineering at Chulalongkorn University.<br>
  &nbsp;You can shoot me an email at <a href="mailto:nchartwanchai@gmail.com">nchartwanchai@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 
-  &nbsp;-Bangkok, Thailand.<br>
+  &nbsp;Bangkok, Thailand<br>
   
 <h3 id="-tech-stack"> &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
