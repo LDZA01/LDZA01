@@ -35,7 +35,5 @@
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
 </p>
 <hr>
