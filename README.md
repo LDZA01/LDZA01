@@ -21,4 +21,6 @@
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,dotnet,git,gitlab,java,maven,mongodb,mysql,nextjs,nodejs,npm,postman,postgres,py,react,spring,ts,ubuntu,)](https://skillicons.dev)
+
 <hr>
