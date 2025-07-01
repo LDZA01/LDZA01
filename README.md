@@ -5,7 +5,6 @@
  &nbsp;I’m currently studying Computer Engineering at Chulalongkorn University.<br>
  &nbsp;You can shoot me an email at <a href="mailto:nchartwanchai@gmail.com">nchartwanchai@gmail.com</a>! I’ll try to respond as soon as I can.<br>
   
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack"> &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
