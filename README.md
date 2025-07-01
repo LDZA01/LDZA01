@@ -4,7 +4,7 @@
 <p>💡 &nbsp;My name is Naphat Chartwanchai, Im twenty years old.<br>
 🎓 &nbsp;I’m currently studying Computer Engineering at Chulalongkorn University.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:nchartwanchai@gmail.com">nchartwanchai@gmail.com</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
+  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
