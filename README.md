@@ -6,7 +6,7 @@
  &nbsp;You can shoot me an email at <a href="mailto:nchartwanchai@gmail.com">nchartwanchai@gmail.com</a>! I’ll try to respond as soon as I can.<br>
   
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<h3 id="-tech-stack"> &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
@@ -29,13 +29,7 @@
 <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
 <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
 <img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign" alt="InDesign"></p>
-<h3 id="️-github-analytics"> &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
-</p>
+
 <h3 id="-connect-with-me"> &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
