@@ -22,14 +22,6 @@
 - 📍 Based in **Bangkok, Thailand**
 - ✉️ Reach me at **nchartwanchai@gmail.com**
 
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,dotnet,git,gitlab,java,maven,mongodb,mysql,nextjs,nodejs,npm,postman,postgres,py,react,spring,ts,ubuntu" alt="Tech Stack" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
