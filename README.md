@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Hey there! I’m Naphat 👋</h1>
-<p align="center">
-  Computer Engineering student at Chulalongkorn University • Bangkok, Thailand
-</p>
 
 <p align="center">
   <a href="mailto:nchartwanchai@gmail.com">Email</a>
