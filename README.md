@@ -4,11 +4,7 @@
 
 <h1 align="center">Hey there! I’m Naphat 👋</h1>
 
-<p align="center">
-  <a href="mailto:nchartwanchai@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/LDZA01">GitHub</a>
-</p>
+
 
 ---
 
